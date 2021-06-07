@@ -1,0 +1,271 @@
+body,p li {
+    padding: 0;
+    margin: 0;
+    font-family: 'Alegreya', serif;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.headerpage{
+    display: flex;
+    margin-top: 10px;
+}
+.mainmenu{
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+}
+.mainmenu a {
+    font-size: 30px;
+    line-height: 41px;
+    text-decoration: none;
+}
+.mainmenu a:hover {
+    color: slategrey;
+}
+.footerpage{
+    display:flex;
+    justify-content: space-evenly;
+}
+.social{
+    list-style: none;
+    display:flex;
+    justify-content: center;
+    line-height: 26px;
+    align-items: center;
+}
+.hashhtag{
+    font-size: 21px;
+    line-height: 26px;
+    font-weight: 900;
+}
+.copyright{
+    line-height: 26px;
+}
+.socialbuttonsss{
+    margin: 0 10px;
+}
+.footcolor{
+background-color: #b5d4c5;
+}
+.slogon{
+    background:url(innsbruck1.png) no-repeat;
+    height: 550px;
+    background-size:cover
+}
+.slogon h1 {
+    color:white;
+    padding-top: 240px;
+}
+h2{
+    color: rgb(61, 112, 160);
+    font-size: 36px;
+    line-height: 50px;
+
+}
+h3{
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.marketing{
+    background-image:url(skier.png);
+    background-size:cover;
+    background-position: center right;
+    width: 30%;
+    display:flex;
+    flex-direction: column;
+
+}
+.marketing p{
+    font-size: 24px;
+    margin: 0;
+    padding:5px;
+    line-height: 40px;
+
+}
+.marketing a {
+    align-self: flex-end;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    opacity: 0.7;
+    display: inline-block ;
+    padding: 5px 10px;
+    margin-top:30px;
+}
+.pogoda figure{
+    border:thin gray solid;
+    display:flex;
+    flex-direction: column;
+}
+figcaption{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding:5px 0px;
+}
+.galarylist{
+    display:flex;
+    flex-direction:column;
+    padding: 0 ;
+    margin: 0 ;
+
+}
+.galaryitem{
+    display: flex;
+    background-color:lightgreen;
+    align-items: center;
+    text-align: center;
+
+    margin-top: 10px;
+    
+}
+.galaryitem h3 {
+    flex-grow: 1 ;
+
+}
+.map iframe{
+    width: 100%;
+    height: 550px;
+}
+.transfer table{
+border-collapse: collapse;
+margin: 0 auto;
+margin-bottom: 10px;
+}
+.transfer td{
+    border: 1px rgb(0, 0, 0) solid;
+    padding:5px;
+    text-align: center;
+
+
+
+    
+    
+}
+.transfer tr:first-child{
+    color: white;
+    background-color :lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
